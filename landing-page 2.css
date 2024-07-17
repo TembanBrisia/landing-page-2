@@ -1,0 +1,182 @@
+section{
+    
+}
+header{
+    background: white;
+    display: inline-block;
+    text-align: center;
+    
+
+}
+
+
+h3{ 
+    text-align: center;
+    background-image: url(lan.png);
+    min-height: 300px;
+    width: 1340px;
+    height: 50px;
+    backface-visibility: inherit;
+    min-width: 300px;
+    font-size: 34px;
+    color: white;
+}
+span{
+    font-size: medium;
+    padding: 2px 6px;
+    margin: 2px;
+    font-weight: 400;
+    display: inline;
+    justify-items: ;
+
+}
+ h5{ 
+    font-size: 34px;
+padding: 2px 6px;
+font-weight: bold;
+
+}
+h4{
+    background-image: url(Screenshot_20240717-110832.png);
+    min-height: 400px;
+    width: 500px;
+    float: right;
+    height: 300px;
+}
+.man{
+    background-color: rgb(83, 83, 253);
+    align-items: center;
+    margin: 2rem auto;
+    text-align: center;
+    font-size: 44px;
+    
+
+}
+.par{
+    text-align: center;
+    color: blue;
+  
+  
+}
+.boy{
+    float: right;
+    font-weight: bold;
+    font-size: 55px;
+    
+}
+.you{ 
+    float: right;
+
+    
+    text-align: left;
+
+
+
+}
+
+.exp{
+    list-style-image: ;
+}
+p.dream {
+    float: right;
+    font-size: 33px;
+    font-weight: bold;
+    text-align: right;
+
+   }
+p.hum{
+    float: right;
+
+
+}
+
+.ma{
+    text-align: right;
+}
+ul{
+    float: right;
+    
+}
+    
+nav ul li{
+    display: inline-block;
+    padding: 0px 5px;
+
+}
+
+ul {
+    border-radius: 4px;
+    border: 1px solid white;
+    background-color: white ;
+    text-decoration: none;
+}
+button a:hover{
+    color: rgb(255, 0, 170);
+
+}
+button a{
+    border: 1px solid blue;
+}
+button a:visited{
+    color: blue;
+}
+aside{
+    min-height: 400px;
+    width: 500px;
+    float: right;
+}
+aside img{
+    min-height: 400px;
+width: 500px;
+float: right;
+}
+
+button a{
+    text-decoration: none;
+}
+body{
+    background-color: white;
+    padding: 0;
+    margin: 0; 
+}
+.braiza{
+    padding: 5px;
+    text-align: block;
+}
+h4{
+    padding: 2px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+    text-align: center;
+    
+
+
+}
+img{
+    width: 1370px;
+    height: 400px;
+    text-align: center;
+}
+li{
+    float: left;
+    display: flex;
+
+
+}
+#man{
+    text-decoration: underline;
+    
+}
+li a{
+    display: block;
+    padding: 14px 16px;
+    text-align: center;
+    border-radius: 25px;
+    text-decoration: none;
+    display: inline-block;
+
+}
